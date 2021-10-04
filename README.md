@@ -1,10 +1,11 @@
-Disciplina de desenvolvimento web 1.
+Disciplina de desenvolvimento web 2.
 
-Nome: Vinicius dos Santos Rufino
+Nome: Vinícius dos Santos Rufino
+
+Professor: Johnata Souza Santicioli
 
 Prontuário: SP301570X
   
-Exercicios JS:  
-  
-  
-[Exercicio 1](atividades/A1//index.html)
+[Atividade 1](atividades/A1//index.html)
+
+[Atividade 2](atividades/A2/index.html)
