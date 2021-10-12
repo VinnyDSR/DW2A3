@@ -10,4 +10,4 @@ Prontuário: SP301570X
 
 [Atividade 2](atividades/A2/index.html)
 
-[Atividade 2](atividades/A3/index.html)
+[Atividade 3](atividades/A3/index.html)
