@@ -1,0 +1,43 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 15px;
+    background-image: url(covid.jpg);
+}
+
+button{
+    background-color: #cccccc;
+}
+
+input{
+    background-color: #cccccc;
+}
+
+table{
+    overflow-x: auto;
+}
+
+table, th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    width:100%;
+    padding: 5px;
+}
+tr:hover {background-color: #cccccc;}
+
+div{
+    min-width: 500px;
+    max-width: 700px;
+    background: #468fea;
+    border-radius: 20px;
+    padding: 2.4rem;
+    height: relative;
+}
