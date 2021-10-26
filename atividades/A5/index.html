@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <title>Consulta de casos Covid</title>
+</head>
+
+<body>
+    <div>
+        <h1>Consultar casos de Covid no Brasil</h1>
+        <form action="" class="form">
+            <label for="cep">CEP: </label>
+            <input type="text" class="cep" id="cep" data-js="cep"/>
+
+            <input type="button" name="button" onclick="consultarCep()" id="button" value="Consultar">
+        </form>
+        <table>
+            <tr>
+                <th>CEP</th>
+                <th>UF</th>
+                <th>Estado</th>
+                <th>Casos</th>
+                <th>Mortes</th>
+                <th>Suspeitos</th>
+                <th>Suspeitas descartadas</th>
+              </tr>
+        </table>
+    </div>
+    <script src="./main.js"></script>
+</body>
+
+</html>
